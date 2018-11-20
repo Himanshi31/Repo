@@ -1,2 +1,6 @@
 second status
+<<<<<<< HEAD
 update second a file on remote site[changes on local]
+=======
+update second a file on remote site[changed on remote]
+>>>>>>> 9739ed3255657acc0514d961a33a12e4d4859612
